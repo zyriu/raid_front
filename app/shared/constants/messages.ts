@@ -1,0 +1,23 @@
+export const messages = {
+  balance_updated: "Your balance was successfully updated",
+  balance_updating: "Your balance is updating...",
+  bridging: "Bridging in progress...",
+  empty_value: "You need to enter a value",
+  error: "Error",
+  error_fetching_extract_price: "Unable to fetch extraction price",
+  extraction_in_progress:
+    "You have an extraction in progress. Extracting again will reset your extraction timer and forfeit any pending claimable rewards. We recommend claiming rewards first or using a fresh wallet. Do you still wish to proceed?",
+  insufficient_balance: "Amount exceeds available balance",
+  invalid_value: "Invalid value",
+  inventory_updated: "Your inventory was successfully updated",
+  inventory_updating: "Your inventory is updating...",
+  nft_mint_updating: "Mint statistics updating...",
+  nft_mint_updated: "Mint statistics updated",
+  nothing_to_claim: "You have nothing to claim",
+  please_connect: "Please connect your wallet to use Raid City",
+  switch_network: "Switching network...",
+  transaction_sent: "Your transaction was successfully sent",
+  transfer_augmentation: "Transferring augmentation",
+  transfer_trinket: "Transferring trinket",
+  unauthorized: "Unauthorized",
+};
